@@ -30,3 +30,4 @@ F:\Desktop\DatingApp\api\obj\Debug\net9.0\refint\API.dll
 F:\Desktop\DatingApp\api\obj\Debug\net9.0\API.pdb
 F:\Desktop\DatingApp\api\obj\Debug\net9.0\API.genruntimeconfig.cache
 F:\Desktop\DatingApp\api\obj\Debug\net9.0\ref\API.dll
+F:\Desktop\DatingApp\api\obj\Debug\net9.0\API.sourcelink.json
